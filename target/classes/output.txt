@@ -1,0 +1,4 @@
+hot_tea is prepared
+green_tea cannot be prepared because green_mixture is not available
+hot_coffee cannot be prepared because item hot_water is not sufficient
+black_tea is prepared
